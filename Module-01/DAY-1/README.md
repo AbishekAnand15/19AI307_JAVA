@@ -26,6 +26,19 @@ RegisterNumber:
 ```
 
 ## Sourcecode.java:
+class Student{
+    String name;
+    String address;
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Student obj= new Student();        
+        obj.name="John";
+        obj.address="Chennai";
+        System.out.println(obj.name+" "+obj.address);
+    }
+}
 
 
 
@@ -34,6 +47,8 @@ RegisterNumber:
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/f0f412fd-dcb8-4ed8-8a7c-48a4c12c30c2)
+
 
 
 
