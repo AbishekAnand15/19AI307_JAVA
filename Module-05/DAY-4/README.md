@@ -26,7 +26,7 @@
  ```
 /*
 Program to implement a IS-A RELATIONSHIP AND HAS-A RELATIONSHIP using Java
-Developed by: OAbishek Xavier A
+Developed by: Abishek Xavier A
 RegisterNumber: 212222230004
 */
 ```
